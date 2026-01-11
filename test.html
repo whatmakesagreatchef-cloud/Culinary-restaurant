@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Restaurant Empire Sim - Test</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      font-family: -apple-system, sans-serif;
+      background: #0b0e14;
+      color: #fff;
+    }
+    .test-card {
+      background: #1a2542;
+      padding: 20px;
+      border-radius: 12px;
+      margin: 10px 0;
+    }
+    button {
+      background: #3498db;
+      color: #fff;
+      border: none;
+      padding: 12px 24px;
+      border-radius: 8px;
+      font-size: 16px;
+      margin: 10px 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Restaurant Empire - Diagnostic Test</h1>
+  
+  <div class="test-card">
+    <h2>✅ HTML is loading</h2>
+    <p>If you can see this, the HTML file is working.</p>
+  </div>
+
+  <div class="test-card">
+    <h2 id="jsTest">⏳ Testing JavaScript...</h2>
+    <button onclick="testClick()">Click to Test</button>
+  </div>
+
+  <div class="test-card">
+    <h2>Module Test</h2>
+    <div id="moduleTest">⏳ Testing ES6 modules...</div>
+  </div>
+
+  <div class="test-card">
+    <h2>LocalStorage Test</h2>
+    <div id="storageTest">⏳ Testing storage...</div>
+  </div>
+
+  <div class="test-card">
+    <h2>Next Steps</h2>
+    <button onclick="location.href='index.html'">Try Loading Full Game</button>
+  </div>
+
+  <script>
+    // Test 1: Basic JS
+    document.getElementById('jsTest').innerHTML = '✅ JavaScript is working!';
+    
+    function testClick() {
+      alert('✅ Button clicks work!');
+    }
+
+    // Test 2: LocalStorage
+    try {
+      localStorage.setItem('test', 'works');
+      const test = localStorage.getItem('test');
+      document.getElementById('storageTest').innerHTML = test === 'works' ? 
+        '✅ LocalStorage works!' : '❌ LocalStorage broken';
+      localStorage.removeItem('test');
+    } catch(e) {
+      document.getElementById('storageTest').innerHTML = '❌ LocalStorage error: ' + e.message;
+    }
+
+    // Test 3: ES6 Modules
+    console.log('Testing modules...');
+  </script>
+
+  <script type="module">
+    // Test ES6 module support
+    try {
+      const test = () => 'Module support works';
+      document.getElementById('moduleTest').innerHTML = '✅ ES6 modules working!';
+      console.log('Modules working');
+    } catch(e) {
+      document.getElementById('moduleTest').innerHTML = '❌ Module error: ' + e.message;
+      console.error('Module error:', e);
+    }
+  </script>
+
+</body>
+</html>
