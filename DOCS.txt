@@ -1,0 +1,283 @@
+==========================================
+RESTAURANT EMPIRE SIMULATOR v2.0
+Enhanced Tutorial Edition
+==========================================
+
+🎮 WHAT'S NEW IN v2.0
+
+This version focuses on making the deep restaurant management sim accessible and fun through:
+
+✅ IN-DEPTH TUTORIALS - Step-by-step guides for every system
+✅ CONTEXTUAL HINTS - Smart tips appear when you need them
+✅ MILESTONE CELEBRATIONS - Story moments as you grow
+✅ ENHANCED UI - Mobile-optimized, cleaner, more helpful
+✅ TOOLTIPS EVERYWHERE - Tap "?" icons to learn what things mean
+
+==========================================
+🎯 GAME OVERVIEW
+==========================================
+
+You're building a restaurant empire from scratch. Start with one venue, make it profitable, then expand. Balance:
+
+💰 MONEY - Pay bills, invest in improvements, save for growth
+👥 STAFF - Hire, train, and keep your team happy
+🍽️ MENU - Design dishes that customers love and that make money
+⭐ REPUTATION - Good reviews = more customers = more profit
+
+==========================================
+📚 CORE SYSTEMS EXPLAINED
+==========================================
+
+1. WEEKLY OPERATIONS
+   - Each week, your restaurants serve customers
+   - You earn revenue, pay costs, and see net profit
+   - Review weekly reports to spot problems early
+   - Take action on urgent issues in the Ops screen
+
+2. MENU MANAGEMENT
+   - Design your menu with items that balance profit & popularity
+   - Stars: Your money-makers (high profit, high sales)
+   - Plowhorses: Popular but lower margin (volume plays)
+   - Puzzles: High margin but slow sellers (needs marketing)
+   - Dogs: Low profit AND unpopular (remove or fix these!)
+   
+3. STAFF & MORALE
+   - Burnout (0-100): Work stress. Keep below 60.
+   - Morale (0-100): Overall happiness. Aim for 70+.
+   - Hire managers (GM, Chef, FOH) to delegate and improve operations
+   - Train staff to permanently boost skills (worth the investment!)
+
+4. CUSTOMER SATISFACTION
+   - Food Quality (38%): Most important factor
+   - Service Speed (18%): Fast service = happy customers
+   - Value (16%): Fair prices for what they get
+   - Vibe (16%): Atmosphere and ambiance
+   - Cleanliness (12%): Basic hygiene matters
+   
+   Target: 70+ satisfaction. Below 60 = complaints & bad reviews.
+
+5. SUPPLY CHAIN
+   - Track inventory to avoid stockouts
+   - Lock in supplier contracts when prices are good
+   - Higher par levels = less stockouts but more waste
+   - Do stocktakes to reduce spoilage temporarily
+
+6. FACILITIES & MAINTENANCE
+   - Equipment breaks down if not maintained
+   - Breakdowns hurt speed, quality, and can cause closures
+   - Spend on maintenance to prevent expensive repairs
+   - Renovate when condition drops below 50
+
+7. FINANCIALS
+   - Food Cost: Target 25-32% of sales
+   - Labor Cost: Target 28-38% of sales
+   - Net Profit Margin: Aim for 8-15%
+   - Keep 3+ months of cash as safety buffer
+
+8. GROWTH & EXPANSION
+   - Save profits or take loans to fund new venues
+   - Each new venue adds complexity
+   - Choose: Chain (one brand) or Portfolio (multiple brands)
+   - Economies of scale kick in with 3+ locations
+
+==========================================
+💡 PRO TIPS
+==========================================
+
+🎯 STARTING OUT:
+   - Don't expand too fast. Master one venue first.
+   - Watch cash flow, not just profit
+   - Hire a GM and Chef as soon as you can afford it
+   - Train staff early - skills compound over time
+
+💰 MAKING MONEY:
+   - Menu pricing is your biggest lever
+   - Small price increases (+5-10%) have big impact
+   - Focus on high-volume items (Plowhorses & Stars)
+   - Cut or fix Dogs - they drain money and kitchen time
+
+👥 MANAGING STAFF:
+   - Burnout prevention is cheaper than fixing high burnout
+   - Use wellbeing days when burnout hits 60+
+   - Staff issues get worse if ignored - address them
+   - Delegation reduces your workload and improves metrics
+
+📈 GROWING SMART:
+   - Expand when you have 6+ months cash reserves
+   - Second location is hardest - after that it gets easier
+   - HQ central purchasing saves money with multiple venues
+   - Brand standards boost consistency but increase pressure
+
+⚠️ COMMON MISTAKES:
+   - Overpaying staff (check market wages in Setup)
+   - Underpricing menu items (low prices ≠ more customers)
+   - Ignoring burnout until it's critical
+   - Expanding without cash buffer (recipe for disaster)
+
+==========================================
+🎓 TUTORIAL SYSTEM
+==========================================
+
+BUILT-IN TUTORIALS:
+   - First Venue: Opening your first restaurant
+   - Weekly Ops: Understanding the week-to-week game loop
+   - Menu Design: Creating profitable menus
+   - Staff Management: Keeping your team happy
+   - Financials: Reading P&L and managing money
+   - Supply Chain: Inventory and suppliers
+   - Customer Service: Reviews and complaints
+   - Scaling: Growing to multiple locations
+
+HOW TO USE:
+   - Tutorials appear automatically when relevant
+   - Tap the "?" icon next to section titles anytime
+   - Skip tutorials if you're experienced
+   - Re-read in Setup > Tutorials whenever you want
+
+CONTEXTUAL HINTS:
+   - Smart tips appear based on your situation
+   - "⚠️ Staff burnout is high" → Suggestions to fix it
+   - "💰 Food costs are high" → What to check
+   - Toggle hints off in Settings if you don't want them
+
+==========================================
+🏆 MILESTONES & STORY
+==========================================
+
+The game tracks your journey with milestone celebrations:
+
+🎉 First Week Complete - You made it through!
+💰 First Profit - Your venue is in the black
+📅 One Month Down - You're defying the odds
+👔 Hired Manager - Learning to delegate
+🏢 Second Venue - Building an empire
+⭐ Building Buzz - Reputation 70+
+💎 Six Figures - $100K+ in cash
+
+Each milestone rewards you with cash, reputation, or prestige.
+
+==========================================
+⚙️ SETTINGS & CONTROLS
+==========================================
+
+TOGGLE FEATURES:
+   - Tutorials: On/Off (experienced players can disable)
+   - Hints: On/Off (contextual help messages)
+   - Realism: Controls difficulty curve
+
+NAVIGATION:
+   - Setup: Tutorials, docs, game controls
+   - World: Choose locations for new venues
+   - Venues: Manage your existing restaurants
+   - Ops: Weekly summary, actions, quests
+   - HQ: Central purchasing, suppliers, brands
+   - Capital: Investors, loans, dividends
+   - Sell: Exit options when ready
+
+==========================================
+🎯 WINNING STRATEGIES
+==========================================
+
+SHORT TERM (Weeks 1-12):
+   - Focus on profitability over growth
+   - Hire key staff (GM, Chef)
+   - Optimize your menu (kill Dogs, boost Stars)
+   - Build cash reserves to 50K+
+
+MID TERM (Weeks 13-52):
+   - Open 2nd venue when you have buffer
+   - Implement training programs
+   - Build reputation to 70+
+   - Lock in supplier contracts
+
+LONG TERM (Year 2+):
+   - Scale to 3-5 venues
+   - Choose chain vs portfolio strategy
+   - Manage brand standards
+   - Consider bringing in investors for big growth
+
+==========================================
+📱 MOBILE TIPS
+==========================================
+
+- Use landscape mode for easier reading
+- All buttons are sized for thumb-friendly tapping
+- Swipe to navigate between tabs
+- Long-press for tooltips on mobile
+- Pinch to zoom on charts (where available)
+
+==========================================
+🐛 TROUBLESHOOTING
+==========================================
+
+GAME NOT SAVING?
+   - Check browser local storage isn't full
+   - Try clearing cache and reloading
+   - Use Export/Import in Setup to backup saves
+
+STUCK OR CONFUSED?
+   - Tap "?" icons for context help
+   - Re-run tutorials from Setup screen
+   - Check this README
+   - Look for contextual hints (if enabled)
+
+PERFORMANCE ISSUES?
+   - Reduce number of active venues
+   - Clear old logs in Ops
+   - Try a different browser
+   - Disable animations in Settings
+
+==========================================
+🎮 DEVELOPMENT ROADMAP
+==========================================
+
+PLANNED UPDATES (Modular):
+   - 📍 NEW CITIES: More markets to expand into
+   - 🍜 NEW CUISINES: More restaurant concepts
+   - 👥 STAFF STORIES: Deeper character narratives
+   - 🎪 EVENTS: Food festivals, competitions, critic visits
+   - 📊 ANALYTICS: Advanced charts and insights
+   - 🏆 ACHIEVEMENTS: More goals and rewards
+   - 🌐 MULTIPLAYER: Leaderboards and competition
+
+==========================================
+📄 VERSION HISTORY
+==========================================
+
+v2.0 - Enhanced Tutorial Edition
+   - Complete tutorial system with 8 guided walkthroughs
+   - Contextual hints and tooltips throughout
+   - Milestone celebrations with rewards
+   - Enhanced mobile-friendly UI
+   - Better visual feedback and status indicators
+   - Improved accessibility
+
+v1.18.2 - Guided Walkthrough
+   - First-time user guided walkthrough
+   - Setup screen improvements
+   - Bug fixes
+
+v1.18.1 - Setup & Tutorials
+   - Initial tutorial framework
+   - Setup screen with explainers
+
+v1.0-1.18 - Core Systems
+   - All base game systems (accounting, inventory, staff, etc.)
+   - Weekly simulation engine
+   - Acquisition wizard
+   - Management interfaces
+
+==========================================
+🙏 CREDITS
+==========================================
+
+Game Design: Building on Football Manager-style depth
+Focus: Accessible, educational, realistic
+Platform: HTML5/JS - works anywhere
+
+==========================================
+
+📧 FEEDBACK WELCOME
+Use the GitHub issues or contact form to share feedback!
+
+==========================================

@@ -1,0 +1,221 @@
+==========================================
+QUICK START GUIDE
+Restaurant Empire Simulator
+==========================================
+
+👋 Welcome! This is a deep restaurant management game,
+but don't worry - we'll guide you through everything.
+
+==========================================
+⚡ YOUR FIRST 10 MINUTES
+==========================================
+
+1️⃣ START A NEW GAME
+   - You begin with $120,000 in cash
+   - No venues yet - you'll acquire your first one
+
+2️⃣ ACQUIRE YOUR FIRST VENUE
+   - Tap "World" tab at the bottom
+   - Choose a location (mid-tier is good to start)
+   - Pick a venue type (Café or Bistro are beginner-friendly)
+   - Choose a concept (Fine Casual is balanced)
+   - Hire basic staff (you can upgrade later)
+   - Confirm and open!
+
+3️⃣ YOUR FIRST WEEK
+   - Tap "Ops" tab to see your weekly report
+   - Review: Sales, Costs, Net Profit, Customer Satisfaction
+   - Don't panic if first week isn't amazing - normal!
+
+4️⃣ IMPROVE YOUR VENUE
+   - Tap "Venues" → Select your venue → "Manage"
+   - Overview: Quick status check
+   - Staff: Hire better managers (worth it!)
+   - Menu: Design profitable menu items
+   - Check each tab and explore
+
+5️⃣ WEEK BY WEEK
+   - Each week auto-runs when you click "Run Week"
+   - Address any issues that appear
+   - Gradually improve and optimize
+   - Save profits to open venue #2
+
+==========================================
+📊 THE KEY METRICS THAT MATTER
+==========================================
+
+WATCH THESE FIRST:
+
+💰 CASH
+   Current: How much money you have
+   Target: Keep 3+ months of expenses
+   
+⭐ CUSTOMER SATISFACTION  
+   Current: 0-100 score
+   Target: 70+
+   Below 60: Expect complaints
+
+💵 NET PROFIT (per venue)
+   Current: What's left after all costs
+   Target: Positive (above $0)
+   Growing: You're doing it right
+
+🔥 STAFF BURNOUT
+   Current: 0-100 stress level
+   Target: Below 60
+   Above 70: Urgent - give time off
+
+📈 FOOD COST %
+   Current: Food cost as % of sales
+   Target: 25-32%
+   Above 35%: Prices too low or waste too high
+
+==========================================
+🎯 FIRST WEEK GOALS
+==========================================
+
+✅ Open your first venue
+✅ Survive Week 1 (don't go broke!)
+✅ Check your weekly report
+✅ Explore the Manage screens
+
+==========================================
+🎯 FIRST MONTH GOALS (Weeks 1-4)
+==========================================
+
+✅ Keep satisfaction above 60
+✅ Turn a profit (even small is good!)
+✅ Hire a General Manager or Head Chef
+✅ Optimize your menu (remove "Dog" items)
+✅ Build cash reserves to $60K+
+
+==========================================
+🎯 FIRST QUARTER GOALS (Weeks 1-12)
+==========================================
+
+✅ Consistently profitable
+✅ Full management team (GM + Chef + FOH Lead)
+✅ Staff trained in 1-2 skills
+✅ Customer satisfaction 70+
+✅ Cash reserves $80K+ (ready to expand!)
+
+==========================================
+💡 BEGINNER TIPS
+==========================================
+
+DO THIS:
+✅ Read tooltips (tap "?" icons)
+✅ Start with one venue - master it first
+✅ Hire good managers ASAP
+✅ Check weekly reports carefully
+✅ Address issues when they appear
+✅ Save profits - don't spend everything
+
+AVOID THIS:
+❌ Opening multiple venues too fast
+❌ Ignoring high staff burnout
+❌ Pricing menu items too low
+❌ Skipping staff training
+❌ Running out of cash reserves
+❌ Ignoring customer complaints
+
+==========================================
+🆘 COMMON PROBLEMS & FIXES
+==========================================
+
+PROBLEM: "I'm losing money every week"
+FIX:
+   - Raise menu prices by 10-15%
+   - Check food cost % (should be under 32%)
+   - Make sure staff aren't overpaid
+   - Cut slow-selling menu items
+
+PROBLEM: "Customers are unhappy"
+FIX:
+   - Check what's low (food/speed/value/vibe/clean)
+   - Food: Hire better chef or train existing one
+   - Speed: Reduce staff burnout, hire more staff
+   - Value: Lower prices slightly OR improve quality
+   - Clean: Improve staff standards skill
+
+PROBLEM: "Staff burnout is really high"
+FIX:
+   - Give wellbeing day (Ops → Weekly Actions)
+   - Reduce shift hours or hire more staff
+   - Check menu complexity (simpler menu helps)
+   - Train staff in pace/efficiency
+
+PROBLEM: "I ran out of cash"
+FIX:
+   - Take a small loan (HQ → Loans)
+   - Raise menu prices immediately
+   - Cut all non-essential spending
+   - Consider selling if truly desperate
+
+==========================================
+🎓 LEARNING PATH
+==========================================
+
+COMPLETE THESE TUTORIALS IN ORDER:
+
+1. First Venue (opens automatically)
+2. Weekly Operations (after Week 1)
+3. Menu Design (when you open menu builder)
+4. Staff Management (when burnout hits 50+)
+5. Financials (after Week 4)
+6. Supply Chain (when you have 1+ venue)
+7. Customer Service (when you get complaints)
+8. Scaling (when you have cash for venue #2)
+
+Access tutorials anytime:
+   Setup tab → Tutorials section
+
+==========================================
+📚 WHERE TO LEARN MORE
+==========================================
+
+📖 DOCS.txt - Complete game documentation
+❓ In-game help - Tap "?" icons throughout
+🎯 Tooltips - Long-press any metric to learn
+📊 Tutorials - Step-by-step guides
+💬 Hints - Context-sensitive tips (if enabled)
+
+==========================================
+🎮 CONTROLS QUICK REFERENCE
+==========================================
+
+TAB BAR (Bottom):
+   Setup - Tutorials, help, game controls
+   World - Acquire new venues
+   Venues - Manage existing restaurants  
+   Ops - Weekly reports and actions
+   HQ - Central purchasing, suppliers
+   Capital - Money management, investors
+   Sell - Exit options
+
+WITHIN SCREENS:
+   Tap - Select/interact
+   Swipe - Navigate between sections
+   Long-press - Show tooltip (mobile)
+   ? Icon - Context help
+
+==========================================
+🏁 READY TO START?
+==========================================
+
+You're ready! Remember:
+
+1. Start small - one venue
+2. Read the tutorials
+3. Check metrics weekly
+4. Fix problems early
+5. Save before expanding
+6. Have fun!
+
+The game is deep but learnable. Take it step by step,
+use the tutorials, and you'll be running a successful
+empire in no time.
+
+Good luck, Chef! 🍽️
+
+==========================================
