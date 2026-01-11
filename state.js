@@ -5,7 +5,7 @@ export function defaultState(){
   return {
     version: 5, // Bumped for tutorial system
     seed,
-    route: "world",
+    route: "setup", // Start at setup for first-time users
     seenSetup: false,
     tutorialDone: {}, // Track completed tutorials
     tutorialProgress: {}, // Track current step in active tutorials
