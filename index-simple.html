@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Restaurant Empire Sim</title>
+  <style>
+    :root{
+      --bg:#0b0e14;
+      --panel:#121826;
+      --text:#e7ecff;
+      --muted:#a9b2d6;
+      --good:#45d483;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: linear-gradient(180deg, var(--bg), #070910);
+      color: var(--text);
+      font-family: -apple-system, sans-serif;
+      min-height: 100vh;
+    }
+    .topbar {
+      padding: 16px;
+      background: rgba(10,12,18,.85);
+      border-bottom: 1px solid rgba(255,255,255,.08);
+    }
+    .topbar__title {
+      font-size: 20px;
+      font-weight: 800;
+    }
+    .app {
+      padding: 20px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    .card {
+      background: var(--panel);
+      border: 1px solid rgba(255,255,255,.08);
+      border-radius: 14px;
+      padding: 20px;
+      margin: 16px 0;
+    }
+    .btn {
+      background: #1a2542;
+      color: var(--text);
+      border: 1px solid rgba(255,255,255,.08);
+      border-radius: 12px;
+      padding: 12px 20px;
+      font-size: 16px;
+      cursor: pointer;
+      margin: 8px 4px;
+      min-width: 120px;
+    }
+    .btn:active {
+      opacity: 0.8;
+    }
+    .success {
+      color: var(--good);
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar__title">🍽️ Restaurant Empire</div>
+  </header>
+
+  <main id="app" class="app">
+    <div class="card">
+      <h1>Welcome to Restaurant Empire! 👋</h1>
+      <p style="margin-top: 12px; color: var(--muted);">
+        If you're seeing this, the deployment is working!
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>⚠️ Setup Required</h2>
+      <p style="margin-top: 12px; line-height: 1.6;">
+        It looks like the game modules aren't loading yet. This could mean:
+      </p>
+      <ul style="margin: 16px 0 16px 24px; line-height: 1.8;">
+        <li>GitHub Pages is still building (wait 2-3 minutes)</li>
+        <li>Files weren't uploaded correctly</li>
+        <li>Browser is caching old version</li>
+      </ul>
+      
+      <button class="btn" onclick="location.reload()">🔄 Refresh Page</button>
+      <button class="btn" onclick="testModules()">🧪 Test Modules</button>
+    </div>
+
+    <div class="card">
+      <h2>Quick Fixes to Try:</h2>
+      <ol style="margin: 16px 0 16px 24px; line-height: 1.8;">
+        <li><strong>Hard Refresh:</strong> Hold Shift and click reload</li>
+        <li><strong>Clear Cache:</strong> Safari → Advanced → Website Data</li>
+        <li><strong>Check GitHub:</strong> Make sure all 41 files uploaded</li>
+        <li><strong>Wait:</strong> GitHub Pages can take 5-10 minutes to build</li>
+      </ol>
+    </div>
+
+    <div class="card" id="testResults" style="display: none;">
+      <h2>Test Results:</h2>
+      <div id="results" style="margin-top: 12px; font-family: monospace; font-size: 14px;"></div>
+    </div>
+  </main>
+
+  <script>
+    console.log('Simple HTML loaded successfully');
+    
+    function testModules() {
+      const results = document.getElementById('results');
+      const card = document.getElementById('testResults');
+      card.style.display = 'block';
+      results.innerHTML = 'Testing...<br>';
+      
+      // Test if files exist
+      const files = ['main.js', 'state.js', 'ui_screens.js'];
+      let html = '';
+      
+      files.forEach(file => {
+        fetch(file)
+          .then(response => {
+            html += `✅ ${file}: Found (${response.status})<br>`;
+            results.innerHTML = html;
+          })
+          .catch(error => {
+            html += `❌ ${file}: Not found or error<br>`;
+            results.innerHTML = html;
+          });
+      });
+    }
+
+    // Auto-test after 2 seconds
+    setTimeout(() => {
+      console.log('Auto-testing file availability...');
+      testModules();
+    }, 2000);
+  </script>
+</body>
+</html>
